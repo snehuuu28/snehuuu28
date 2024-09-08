@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **on interesting Data Science Projects!**
 
-- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
-
 - 📫 You can reach me on my email id **snehalgawade2655@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
